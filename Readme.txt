@@ -1,0 +1,3 @@
+Slingbox Library Readme
+
+Work in progress ...
